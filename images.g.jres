@@ -1,9 +1,4 @@
 {
-    "image1": {
-        "data": "hwQSABIAAAAAAAAA////AAAAAAAAAP/wM8PMDwAAAAAA8Mw/MzMz/AAAAAAA8DMzMzMzww8AAAAAAD8z8zMzM/wAAAAA8D8zM/M/M/MAAAAAzzwzM7/7M/MAAAAAPzMzM7//M/MAAAAA8D8zM9/7M/MAAAAAAD8zM9/9M/MAAAAAAD8zM9//M/MAAAAAAD8xM9/9M/MAAAAAAD8TM/M/M/MAAAAAAD8z8zMzM/MAAAAAAPAzMzMzMw8AAAAAAAA/MzMz8wAAAAAAAADwMzMzDwAAAAAAAAAA////AAAAAAA=",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "hammy bad ending"
-    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
